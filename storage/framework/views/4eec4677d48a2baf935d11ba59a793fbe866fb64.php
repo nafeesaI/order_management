@@ -1,0 +1,1 @@
+<?php /**PATH /home/khunfoshary/Documents/projects/Nafisa/orders-managment/resources/views//managments/info.blade.php ENDPATH**/ ?>

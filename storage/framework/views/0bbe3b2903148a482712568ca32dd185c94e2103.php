@@ -1,0 +1,1 @@
+<?php /**PATH E:\orders-managment\resources\views//managments/edit.blade.php ENDPATH**/ ?>
